@@ -1,6 +1,6 @@
 name: setup-android-emulator
 version: 0.0.8
-description: setup android emulator
+description: setup android emulator using emulator64-arm
 keywords:
   - android
   - emulator

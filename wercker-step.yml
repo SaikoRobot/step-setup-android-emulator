@@ -1,6 +1,6 @@
-name: setup-android-emulator
-version: 0.0.8
-description: setup android emulator using emulator64-arm
+name: setup-android-emulator64
+version: 0.0.9
+description: setup android emulator using emulator64-arm and timezone Asia/Tokyo
 keywords:
   - android
   - emulator

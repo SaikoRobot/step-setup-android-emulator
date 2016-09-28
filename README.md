@@ -53,6 +53,10 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 # Changelog
 
+## 0.0.9
+
+- change timezone "Asia/Tokyo"
+
 ## 0.0.8
 
 - using emulator64-arm

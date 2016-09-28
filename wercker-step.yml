@@ -1,6 +1,6 @@
 name: setup-android-emulator64
-version: 0.0.10
-description: setup android emulator using emulator64-arm and timezone Asia/Tokyo
+version: 0.0.11
+description: setup android emulator using emulator64-arm
 keywords:
   - android
   - emulator
@@ -15,3 +15,6 @@ properties:
   abi:
     type: string
     default: armeabi-v7a
+  option_timezone:
+    type: string
+    default: "-timezone Asia/Tokyo"

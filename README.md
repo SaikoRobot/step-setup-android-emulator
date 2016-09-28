@@ -18,6 +18,7 @@ installed in the SDK
 * `target_name` (optional, default `wercker`)
 * 'abi' (optional, default `armeabi-v7a`). ABI or Application Binary Interface,
 possible values are `armeabi-v7a` and `x86`
+* `option_timezone` (optional, default `-timezone Asia/Tokyo`)
 
 # Example
 
@@ -53,9 +54,9 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 # Changelog
 
-## 0.0.9
+## 0.0.11
 
-- change timezone "Asia/Tokyo"
+- timezone option added
 
 ## 0.0.8
 
